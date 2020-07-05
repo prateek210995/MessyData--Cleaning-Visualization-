@@ -1,0 +1,51 @@
+section,age,height,gender,country,typeofprogram,major,concentration,gradudateyear,gradudatemonth,working
+S001,48,177,,USA,Graduate Certificate,Data Analytics,,2020,5,Y
+S001,28,165,F,,Master's of Science,Data Analytics,,2021,,N
+S001,34,170,M,Egypt,Master's of Science,Data Analytics,,2021,,Y
+S001,24,168,M,India,Master's of Science,AIT,,2019,12,N
+S001,23,173,M,India,Master's of Science,Data Analytics,,2021,5,N
+S001,25,178,M,USA,Master's of Science,Data Analytics,,2022,,Y
+S001,24,163,F,China,Master's of Science,Data Analytics,,2020,12,N
+S001,27,168,M,,Non Degree,,,,,Y
+S001,30,178,M,Ivory Coast,Master's of Science,Data Analytics,,2020,12,Y
+S001,34,160,F,Iran,Master's of Science,Data Analytics,,2021,,Y
+S001,23,178,,India,Master's of Science,Data Analytics,,2021,,N
+S001,27,183,M,Thailand,Graduate Pathway,,,,,N
+S001,22,168,F,China,Master's of Science,Data Analytics,,2020,12,N
+S001,56,188,M,USA,Graduate Certificate,Data Analytics,,2019,,Y
+S001,23,170,F,India,Master's of Science,Data Analytics,Data Mining,2020,,Y
+S001,29,157,F,India,Master's of Science,Data Analytics,,2020,,N
+S001,22,180,M,India,Master's of Science,Data Analytics,,2020,12,N
+S001,22,175,M,India,Master's of Science,Data Analytics,,2021,5,N
+S001,23,180,M,India,Master's of Science,Data Analytics,,2020,12,N
+S001,23,152,F,India,Master's of Science,Data Analytics,,2021,,N
+S001,25,170,M,Kazakhstan,Master's of Science,Data Analytics,,2021,,N
+S001,23,170,,India,Master's of Science,Data Analytics,,2021,,N
+S001,26,152,M,India,Master's of Science,Data Analytics,,2020,5,Y
+S001,29,153,F,India,Master's of Science,Data Analytics,,2021,5,N
+S001,23,165,M,India,Master's of Science,Data Analytics,,2021,5,N
+S001,24,170,F,China,Master's of Science,Data Analytics,,2020,12,N
+S003,24,170,F,China,Master's of Science,Data Analytics,,2020,12,N
+S003,33,162,M,India,Master's of Science,Data Analytics,,2021,5,N
+S003,22,175,M,USA,Master's of Science,Data Analytics,,2020,,Y
+S003,20,173,F,India,Master's of Science,Data Analytics,,2021,5,N
+S003,23,157,F,India,Master's of Science,Data Analytics,,2021,5,N
+S003,34,173,M,China,Graduate Pathway,,,,,Y
+S003,31,160,F,India,Master's of Science,Data Analytics,,2021,,N
+S003,31,167,F,China,Graduate Certificate,Data Analytics,,2020,,Y
+S003,36,180,M,USA,Graduate Certificate,Data Analytics,,2020,,Y
+S003,27,165,F,India,Graduate Pathway,Data Analytics,,,,
+S003,27,172,M,India,Master's of Science,Data Analytics,,2021,5,Y
+S003,26,185,M,USA,Master's of Science,Data Analytics,Financial Engineering,2021,,Y
+S003,23,160,F,India,Master's of Science,Data Analytics,,2021,,N
+S003,26,172,M,Taiwan,Master's of Science,Data Analytics,,2016,,N
+S003,23,160,F,India,Master's of Science,Data Analytics,,2021,,N
+S003,23,160,,Taiwan,Graduate Pathway,Data Analytics,,,,N
+S003,25,157,F,India,Master's of Science,Data Analytics,,,,Y
+S003,27,163,F,India,Master's of Science,Data Analytics,,2021,,N
+S003,30,165,F,Palestine,Master's of Science,Data Analytics,,2020,12,Y
+S003,27,183,M,USA,Master's of Science,Data Analytics,,2020,,N
+S003,21,188,M,India,Master's of Science,Data Analytics,,2021,,N
+S003,21,163,F,India,Master's of Science,Data Analytics,,2021,,N
+S003,22,178,M,China,Graduate Pathway,,,,,N
+S003,22,175,M,China,Graduate Pathway,,,2022,,N
